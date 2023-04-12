@@ -1,0 +1,33 @@
+body {
+    background-color: #CBE4DE;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    background-color: white;
+    height:fit-content;
+    width: 20%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    position:absolute;
+    left: 0px;
+    right:0px;
+    bottom: 0px;
+    top: 0px;
+    margin: auto;   
+    font-family: sans-serif;
+
+}
+.qr-img {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.card-description {
+    opacity: 0.5;
+}
+
